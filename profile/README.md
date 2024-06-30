@@ -1,9 +1,5 @@
 
-# go
-
-## The Go sdk for the tuga semantic logic
-
-## About
+# About
 The logs we printint are not there just to show a bunch of text, each log printed tells us a:
 > **History about a event that occours in certain period of time.**
 
